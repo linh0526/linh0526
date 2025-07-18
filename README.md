@@ -20,6 +20,7 @@ Here are some projects I've worked on:
 ## 📫 Contact
 - 🌐 GitHub: [github.com/linh0526](#)
 - 📩 Email: [linhngyn0526@gmail.com](#)
+- https://nguyenhoailinh.rf.gd/
 
 ---
 💡 *"Learn something new every day!"*
