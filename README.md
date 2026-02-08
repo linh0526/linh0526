@@ -13,7 +13,7 @@ I am a Software Engineer with a strong passion for web development. Currently, I
 
 ## 📌 Projects
 Here are some projects I've worked on:
-1. **Project 1** - [github.com/linh0526/Battleship-Command](#)
+1. **Project 1** - [github.com/linh0526/Battleship-Command](#github.com/linh0526/Battleship-Command)
 2. **Project 2** - [GitHub Link](#)
 
 ## 📫 Contact
