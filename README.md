@@ -1,5 +1,7 @@
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 # 👋 Hi, I'm Nguyen Hoai Linh!
-### 🚀 Software Engineer | Fullstack Developer (ReactJS)
+### 🚀 Software Engineer | Fullstack Developer
 
 ---
 
@@ -7,8 +9,6 @@
 I am a Software Engineer with a strong passion for web development. Currently, I am focusing on **ReactJS** to build modern, responsive, and user-friendly web applications. I love coding, problem-solving, and continuously improving my skills to contribute to impactful projects.
 
 - 🔭 **I am currently studying at:** University of Transport Ho Chi Minh City (UTH)
-- 🌱 **I am focusing on:** ReactJS & Modern Frontend Ecosystem
-- 🎯 **Goal:** To become a proficient Frontend Developer
 - 📫 **How to reach me:** [linhngyn0526@gmail.com](mailto:linhngyn0526@gmail.com)
 
 ---
@@ -41,11 +41,12 @@ I am a Software Engineer with a strong passion for web development. Currently, I
 | Project Name | Tech Stack | Live Demo |
 | :--- | :--- | :--- |
 | **Battleship Command** | ReactJS, CSS | [🎮 Play Now](https://battleship-command.vercel.app/) |
-| **Project 2** | Coming Soon... | [🔗 Link](#) |
 
 ---
 
-## 📫 Connect with me
-<p align="left">
-  <a href="mailto:linhngyn0526@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="
+## 📫 Contact
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@USERNAME)
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/USERNAME)
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/INVITE_CODE)
