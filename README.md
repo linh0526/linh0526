@@ -1,52 +1,39 @@
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/9AI3FgYKaD5H72MYIU/giphy.gif" width="40">
+  <samp>Welcome! I'm <b><a target="_blank">Nguyen Hoai Linh (linh0526)</a></samp>
+  <img src="https://i.giphy.com/7XDDjU7MpXJslAnB4n.webp" width="40">
+</h2>
 
-# 👋 Hi, I'm Nguyen Hoai Linh!
-### 🚀 Software Engineer | Fullstack Developer
-
----
-
-## 🧑‍💻 About Me
-I am a Software Engineer with a strong passion for web development. Currently, I am focusing on **ReactJS** to build modern, responsive, and user-friendly web applications. I love coding, problem-solving, and continuously improving my skills to contribute to impactful projects.
-
-- 🔭 **I am currently studying at:** University of Transport Ho Chi Minh City (UTH)
-- 📫 **How to reach me:** [linhngyn0526@gmail.com](mailto:linhngyn0526@gmail.com)
-
----
-
-## 🛠️ Skills & Tools
-
-### 💻 Development
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Fullstack+Developer;See+you+again+in+2027!" alt="Typing SVG" /></a>
 </p>
 
-### 🛠️ Ecosystem & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<p align="center">
+  <a href="https://www.youtube.com/@hoailinhnguyen3983"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.facebook.com/nguyen.hoai.linh.96331"><img width="32px" alt="Facebook" title="Facebook" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/YzqTJuJzfa" alt="Discord" title="Join my Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:linhngyn0526@gmail.com"><img width="32px" alt="Gmail" title="Send me an email" src="https://i.imgur.com/mVm29vK.png"></a>
 </p>
 
+<br/>
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='180'>
+
+## About Me
+I am a Software Engineer with a strong passion for web development. Currently focusing on **ReactJS** to build modern, responsive applications. I love coding, problem-solving, and building impactful projects like **Battleship Command**.
+
+- **I am currently studying at:** University of Transport Ho Chi Minh City (UTH)
+- **Contact me:** [linhngyn0526@gmail.com](mailto:linhngyn0526@gmail.com)
+
 ---
 
-## 📌 Featured Projects
-| Project Name | Tech Stack | Live Demo |
-| :--- | :--- | :--- |
-| **Battleship Command** | ReactJS, CSS | [🎮 Play Now](https://battleship-command.vercel.app/) |
+<p align="center">
+  <img alt="Linh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=linh0526&show_icons=true&count_private=true&theme=dracula&border_color=c9243c&bg_color=170d10&title_color=F85D7F&icon_color=F8D866" height=180 />
+  <img alt="Linh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=linh0526&langs_count=8&layout=compact&theme=dracula&border_color=c9243c&bg_color=170d10&title_color=F85D7F&icon_color=F8D866" height=180 />
+</p>
 
----
 
-## 📫 Contact
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@hoailinhnguyen3983)
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nguyen.hoai.linh.96331)
-
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YzqTJuJzfa)
+![](https://komarev.com/ghpvc/?username=linh0526)
