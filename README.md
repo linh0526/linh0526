@@ -35,5 +35,5 @@ I am a Software Engineer with a strong passion for web development. Currently fo
   <img alt="Linh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=linh0526&langs_count=8&layout=compact&theme=dracula&border_color=c9243c&bg_color=170d10&title_color=F85D7F&icon_color=F8D866" height=180 />
 </p>
 
-
+https://linh0526.github.io/portfolio/
 ![](https://komarev.com/ghpvc/?username=linh0526)
